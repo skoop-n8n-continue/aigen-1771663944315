@@ -1,8 +1,8 @@
 :root {
-    --primary: #3498db;    /* Vibrant Blue */
+    --primary: #f39c12;    /* Vibrant Orange */
     --dark: #10181f;       /* Deep Slate */
     --light: #ffffff;      /* White */
-    --secondary: #a9d0f5;  /* Soft Blue Subtitle */
+    --secondary: #ffbe76;  /* Soft Orange Subtitle */
 }
 
 * {
