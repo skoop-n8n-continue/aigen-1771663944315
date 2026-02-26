@@ -1,8 +1,8 @@
 :root {
-    --primary: #2ecc71;    /* Vibrant Green */
+    --primary: #e63946;    /* Vibrant Red */
     --dark: #10181f;       /* Deep Slate */
     --light: #ffffff;      /* White */
-    --secondary: #a5d6a7;  /* Soft Green Subtitle */
+    --secondary: #ffb3b3;  /* Soft Red Subtitle */
 }
 
 * {
@@ -47,7 +47,6 @@ h1 .char {
     font-size: 2.5rem;
     color: var(--secondary);
     font-weight: 400;
-    opacity: 0;
 }
 
 /* Responsive adjustments */
